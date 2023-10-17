@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] - Backend Developer 👋
+# Hello, I'm Giga Gogashvili - Backend Developer 👋
 
 I'm a passionate Backend Developer with expertise in building robust and scalable systems. I specialize in JavaScript and TypeScript, and I'm experienced in working with various technologies and tools to craft efficient back-end solutions.
 
